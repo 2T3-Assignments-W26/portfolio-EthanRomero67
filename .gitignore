@@ -1,0 +1,10 @@
+# This is a comment
+
+# Ignore all .txt files
+*.txt
+
+# Example: ignore a specific file
+secrets.txt
+
+# Example: ignore all files in a folder
+# bin/
